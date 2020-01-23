@@ -4,11 +4,11 @@ Links and things for tri
 ## Triathon
 
 ## Cycling
-https://www.britishcycling.org.uk/knowledge/training-plans/supporting-documents/article/izn20140529-Indoor-Training-Sessions-0
+[Indoor Training Sessions](https://www.britishcycling.org.uk/knowledge/training-plans/supporting-documents/article/izn20140529-Indoor-Training-Sessions-0)
 
 ## Running
 
-## Cycling
+## Swimming
 
 ## Coaching
-https://trainingpeaks.com/coach-blog/meerkats-moles-how-to-become-an-expert-coach/
+[How to Become an Expert Coach](https://trainingpeaks.com/coach-blog/meerkats-moles-how-to-become-an-expert-coach/)
